@@ -11,7 +11,7 @@ public class InventoryService {
 
     private final InventoryRepository inventoryRepository;
 
-
+//jjfk
     public boolean isInStock(String skuCode){
          return inventoryRepository.findBySkuCode().isPresent();
 

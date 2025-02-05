@@ -1,1 +1,5 @@
-/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/Inverntoryservice/InverntoryServiceApplication.java
+/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/onlineapplicationInverntoryservice/InventoryServiceApplication.java
+/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/onlineapplicationInverntoryservice/controller/InventoryController.java
+/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/onlineapplicationInverntoryservice/model/Inventory.java
+/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/onlineapplicationInverntoryservice/repository/InventoryRepository.java
+/Users/arunkumarvalluru/Desktop/MyProjects/Application/online-application/Application/inverntory-service/src/main/java/onlineapplicationInverntoryservice/service/InventoryService.java
